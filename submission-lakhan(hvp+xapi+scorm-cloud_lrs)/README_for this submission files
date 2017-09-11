@@ -1,0 +1,14 @@
+Module and related folders detail
+=================================
+
+1. mvp - 
+   This folder should place under "moodle/mod/" that contains the additional folder "js" having xAPI custom code.
+
+2. mod-H5P_screenshots - 
+   This folder contains screenshots of my localhost moodle that will show the H5V interative activity Quiz.
+
+3. xAPI-code_screenshots -
+   This folder contains the screenshots of xAPI, statements and customization with SCORM cloude endpoint & Auth.
+
+4. SCORM-Cloud-LRS_screenshot - 
+   Screenshot of my account's on SCORM cloud for xAPI Learning Record Store 
